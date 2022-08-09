@@ -4,7 +4,7 @@
 <p align="center">
 <img align="right" alt="Backend Developer" width="40%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" >
 
- <img align="center" alt="alternative" width="10%" height="250" src="https://i.postimg.cc/SN8RDJ28/or-removebg-preview.png">
+ <img align="center" alt="alternative" width="10%" height="250%" src="https://i.postimg.cc/SN8RDJ28/or-removebg-preview.png">
  
 
  <img align="left" alt="Frontend Developer" width="40%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
