@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-vector/application-development-banner_1325-399.jpg?w=1200;h=300&amp;t=st=1659756187)
 <h1 align="center">Hey there 👋, I'm Saviour Eking</h1>
-<h3 align="center">A passionately developer, constantly evolving in the space!</h3>
+<h3 align="center">A passionate developer, constantly evolving in the space!</h3>
 <p align="center">
 <img align="right" alt="Backend Developer" width="40%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" >
 
@@ -9,6 +9,7 @@
 
  <img align="left" alt="Frontend Developer" width="40%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
  </p>
+ <br></br>
  <br></br>
  <br></br>
 
