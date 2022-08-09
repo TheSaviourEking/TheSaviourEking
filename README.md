@@ -2,15 +2,22 @@
 <h1 align="center">Hey there 👋, I'm Saviour Eking</h1>
 <h3 align="center">A passionate developer, constantly evolving in the space!</h3>
 <p align="center">
-<img align="right" alt="Backend Developer" width="40%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" >
+ 
+ <img align="left" alt="Frontend Developer" width="40%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
  <img align="center" alt="alternative" width="10%" height="250%" src="https://i.postimg.cc/SN8RDJ28/or-removebg-preview.png">
  
-
- <img align="left" alt="Frontend Developer" width="40%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+ <img align="right" alt="Backend Developer" width="40%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" >
+ 
  </p>
  <br></br>
+ <hr>
  <br></br>
+ 
+ <hr>
+ <br>
+ <hr>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesavioureking" alt="thesavioureking" /></a> </p>
 
