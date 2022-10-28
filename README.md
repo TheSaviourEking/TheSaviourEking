@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Django, Rest API, Blockchain Technology**
 
-- 👯 I’m looking to collaborate on **Open-source Projects and Personal Projects**
+- 👯 I’m looking to collaborate on both **Open-source and Personal Projects**
 
 - 💬 Ask me about **python, bash scripting, linux and web3**
 
