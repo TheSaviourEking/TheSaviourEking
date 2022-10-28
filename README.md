@@ -18,11 +18,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesavioureking" alt="thesavioureking" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Rest API**
+- 🌱 I’m currently learning **Django, Rest API, Blockchain Technology**
 
-- 👯 I’m looking to collaborate on **Open-source Projects**
+- 👯 I’m looking to collaborate on **Open-source Projects and Personal Projects**
 
-- 💬 Ask me about **python, bash scripting**
+- 💬 Ask me about **python, bash scripting, linux and web3**
 
 - 📫 How to reach me **saviour.eking@outlook.com**
 
