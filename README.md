@@ -1,4 +1,5 @@
-![MasterHead](https://img.freepik.com/free-vector/application-development-banner_1325-399.jpg?w=1200;h=300&amp;t=st=1659756187)
+<!-- ![MasterHead](https://img.freepik.com/free-vector/application-development-banner_1325-399.jpg?w=1200;h=300&amp;t=st=1659756187) -->
+<a href="https://gitroll.io/profile/u6ET7OYfhlqfBJbmELhPbtrpDJ933" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u6ET7OYfhlqfBJbmELhPbtrpDJ933" alt="GitRoll Profile Badge"/></a>
 <h1 align="center">Hey there 👋, I'm Saviour Eking</h1>
 <h3 align="center">A passionate developer, constantly evolving in the space!</h3>
 <p align="center">
