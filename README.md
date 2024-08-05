@@ -47,12 +47,12 @@
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheSaviourEking&theme=default)  -->
 
-<img align="left" width="48%" color='black' src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheSaviourEking&theme=default" alt="TheSaviourEking"/>
+<img align="center" width="100%" color='black' src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheSaviourEking&theme=default" alt="TheSaviourEking"/>
 
 <!-- <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=thesavioureking&show_icons=true&locale=en" alt="TheSaviourEking" /> -->
 
-<img align='right' width='48%' src='https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheSaviourEking&theme=default' alt='TheSaviourEking'/>
-</p>
+<!-- <img align='right' width='48%' src='https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheSaviourEking&theme=default' alt='TheSaviourEking'/>
+</p> -->
 
 <p align="center"><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=thesavioureking&" alt="TheSaviourEking" /></p>
 
