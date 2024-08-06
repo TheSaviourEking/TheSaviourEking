@@ -55,7 +55,8 @@
 </p> -->
 
 <p align="center"><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=thesavioureking&" alt="TheSaviourEking" /></p>
----
+<hr>
+
 # ***Let's fix up some code*** 
 <p align="center">
 <img align="center" alt="Coding" width="400" src="https://dehydr8ed.com/wordpress/wp-content/uploads/2017/02/web-development-machine.gif" >
