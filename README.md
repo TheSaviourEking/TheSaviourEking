@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **python, bash scripting, linux and web development**
 
-- 📫 How to reach me **saviour.eking@outlook.com**
+- 📫 How to reach me **saviour.eking@cyberservices.com**
 
 - ⚡ Fun fact **I make it worth the time.**
 
