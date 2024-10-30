@@ -3,7 +3,7 @@
 <h1 align="center">Hey there 👋, I'm Saviour Eking</h1>
 <h3 align="center">A passionate developer, constantly evolving in the space!</h3>
 <p align="center">
- 
+
  <img align="left" alt="Frontend Developer" width="40%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
  <img align="center" alt="alternative" width="10%" height="250%" src="https://i.postimg.cc/SN8RDJ28/or-removebg-preview.png">
