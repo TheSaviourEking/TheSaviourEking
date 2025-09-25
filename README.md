@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on both **Open-source and Closed-source Projects**
 
-- 💬 Ask me about **python, bash scripting, linux and web development**
+- 💬 Ask me about **anything at all**
 
 - 📫 How to reach me **saviour.eking@cyberservices.com**
 
