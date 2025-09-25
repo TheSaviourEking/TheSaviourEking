@@ -19,7 +19,7 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesavioureking" alt="thesavioureking" /></a> </p> -->
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, Rest API, Express**
+- 🌱 I write **APIs with rust, js/ts, python** and frontend code with **react/next.js**. Currently exploring **Svelte** and mobile development using **Flutter**
 
 - 👯 I’m looking to collaborate on both **Open-source and Closed-source Projects**
 
