@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://img.freepik.com/free-vector/application-development-banner_1325-399.jpg?w=1200;h=300&amp;t=st=1659756187) -->
 <!--  <a href="https://gitroll.io/profile/u6ET7OYfhlqfBJbmELhPbtrpDJ933" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u6ET7OYfhlqfBJbmELhPbtrpDJ933" alt="GitRoll Profile Badge"/></a> -->
-<h1 align="center">Hey there 👋, I'm Saviour Eking</h1>
+<h1 align="center">Hey there, I'm Saviour Eking</h1>
 <h3 align="center">A passionate developer, constantly evolving in the space!</h3>
 <p align="center">
 
@@ -19,15 +19,15 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesavioureking" alt="thesavioureking" /></a> </p> -->
 
-- 🌱 I write **APIs with rust, js/ts, python** and frontend code with **react/next.js**. Currently exploring **Svelte** and mobile development using **Flutter**
+-  I write **APIs with rust, js/ts, python** and frontend code with **react/next.js**. Currently exploring **Svelte** and mobile development using **Flutter**
 
-- 👯 I’m looking to collaborate on both **Open-source and Closed-source Projects**
+-  I’m looking to collaborate on both **Open-source and Closed-source Projects**
 
-- 💬 Ask me about **anything at all**
+-  Ask me about **anything at all**
 
-- 📫 How to reach me **saviour.eking@cyberservices.com**
+-  How to reach me **saviour.eking@cyberservices.com**
 
-- ⚡ Fun fact **I make it worth the time.**
+-  Fun fact **I make it worth the time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
